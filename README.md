@@ -1,6 +1,7 @@
-- 👋 Hi, I’m s0k1y
-- 👀 I’m interested in SDN and NetworkSecurity
-- 🌱 I’m currently learning some ScienceReserach project such as:SDN,also learning CTF.web and misc sometimes;
+- 👋 Hi, I’m s0k1y，you can call me Sky or 0->1 ,rather than socket or Socky
+- 🌱I’m interested in SDN and NetworkSecurity
+- 🌱 I’m a CTFer belong to 0rays ,focus on Web Security and Forensic,MISC；
+- 🌱 I’m currently learning a ScienceReserach project such as:SDN,DDoS detection and mitigation;
 - 💞️ I’m looking to collaborate on SDN
 - 📫 How to reach me qq:2104542143
 
