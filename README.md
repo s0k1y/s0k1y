@@ -1,6 +1,4 @@
-I'm Socket.
-
-Ph.D. student at the University of Colorado Boulder, advised by Yueqi.
+I'm Ph.D. student at the University of Colorado Boulder, advised by Yueqi.
 
 Research Focus: Primarily centered on systems and software security, with emphasis on
 weird machines, exploitability escalation and its formalization, and
