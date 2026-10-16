@@ -1,11 +1,1 @@
-I'm Ph.D. student at the University of Colorado Boulder, advised by Yueqi.
-sky.cs.isec.s0k1y@gmail.com
-
-Research Focus: Primarily centered on systems and software security, with emphasis on
-weird machines, exploitability escalation and its formalization, and
-advanced protection design for infrastructure cyber-systems 
-(e.g., OS kernels and cryptography libraries), as well as vulnerability 
-discovery and exploitation in the Linux kernel.
-
-Achievements: Published 1 paper at a top-tier security venue, IEEE S&P (Oakland); 
-competed in the DEF CON CTF Finals as a member of team r5kapig.
+我是一名在职渗透测试工程师，主要聚焦Web安全系统与软件安全领域，重点研究面向信息基础设施网络系统与WEB应用的攻防技术，同时从事公益漏洞挖掘与利用工作。
